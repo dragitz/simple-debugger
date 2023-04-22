@@ -2,6 +2,10 @@
 
 Allow debugging LCU API calls via Fiddler
 
+## UPDATE
+As of 22 april 2023, the tool does not work and I'm trying to figure out why.
+I will release a fix if possible!
+
 Remember to:
   * Run Fiddler as Administrator
   * Tool > Options >  tick "Decrypt https traffic" 
