@@ -3,8 +3,7 @@
 Allow debugging LCU API calls via Fiddler
 
 ## UPDATE
-As of 22 april 2023, the tool does not work and I'm trying to figure out why.
-I will release a fix if possible!
+4th May 2023: To build do not use AnyCPU, make sure it is set to x64 release !
 
 Remember to:
   * Run Fiddler as Administrator
