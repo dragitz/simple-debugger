@@ -5,7 +5,9 @@ Allow debugging LCU API calls via Fiddler
 ## UPDATE
 4th May 2023: To build do not use AnyCPU, make sure it is set to x64 release !
 
+## 
 Remember to:
+  * Wait for the client to open
   * Run Fiddler as Administrator
   * Tool > Options >  tick "Decrypt https traffic" 
   
